@@ -40,14 +40,6 @@ Il lavoro si fonda su una pipeline completa, dalla preparazione dei dati alla co
 
 ## Repository e Codice
 
-Il codice MATLAB sviluppato per il preprocessing, l’estrazione delle feature e la costruzione dei modelli è disponibile nel repository GitHub:  
+Il codice MATLAB sviluppato per il preprocessing, l’estrazione delle feature e la costruzione dei modelli è disponibile nel repository GitHub del mio compagno di progetto :  
 👉 [PredictionSOH-RUL](https://github.com/sergytube/PredictionSOH-RUL)
 
----
-
-## Come inserire immagini nel README
-
-Per aggiungere immagini esplicative, puoi usare la sintassi Markdown:
-
-```markdown
-![Testo alternativo](path/to/image.png)
